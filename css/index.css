@@ -288,3 +288,25 @@ p {
   margin-top: 5%;
   margin-left: 35%;
 }
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5%;
+  /* Facebook */
+  /* Twitter */
+}
+footer .fa {
+  padding: 1%;
+  font-size: 2rem;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+footer .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+footer .fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
